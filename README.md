@@ -1,8 +1,10 @@
 # books
-Books 
+ 
+**Motivation**
+I was surprised how little I have read and listened and how much TV i have watched in 2022 when I saw the Douban list.
+so I decided to create a book/music/movie list I read in 2023.
 
-I was surprised how little I have read in 2022 when I saw the Douban list.
-so I decided to create a book list I read in 2023
+## Books
 
 1. ✅ 泛若不系之舟 \
 偶像 yue 推荐 ， 超爱 ⭐️⭐️⭐️⭐️⭐️
@@ -16,3 +18,10 @@ so I decided to create a book list I read in 2023
 4. [Reinforcement Learning](https://github.com/fangya18/books/blob/main/SuttonBartoIPRLBook2ndEd.pdf) \
 Bowen 推荐， 接着写paper
 好谢谢bowen 出了那么大的错都没舍得说我一句
+
+
+## Music
+
+
+
+## TV
