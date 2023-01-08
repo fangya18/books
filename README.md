@@ -12,3 +12,7 @@ so I decided to create a book list I read in 2023
 
 3. sophie's world
 灵魂鼓手epic long 推荐
+
+4. Reinforcement Learning
+Bowen 推荐， 接着写paper
+好谢谢bowen 出了那么大的错都没舍得说我一句
