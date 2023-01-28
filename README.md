@@ -9,7 +9,7 @@ so I decided to create a book/music/movie list I read in 2023.
 1. ✅ 泛若不系之舟 \
 偶像 yue 推荐 ， 超爱 ⭐️⭐️⭐️⭐️⭐️
 
-2. Surrender experiment  ⭐️⭐️⭐️⭐️ \
+2. ✅ Surrender experiment  ⭐️⭐️⭐️⭐️ \
 view every task as a gift from you to the world
 
 
