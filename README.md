@@ -10,7 +10,7 @@ so I decided to create a book/music/movie list I read in 2023.
 偶像 yue 推荐 ， 超爱 ⭐️⭐️⭐️⭐️⭐️
 
 2. ✅ Surrender experiment  ⭐️⭐️⭐️⭐️ \
-view every task as a gift from you to the world
+view every task as a gift from us to the world
 
 
 天官赐福 \
